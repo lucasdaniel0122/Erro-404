@@ -6,8 +6,8 @@ Uma página de erro 404 moderna, interativa e totalmente responsiva, apresentand
 
 ## 🚀 Tecnologias Utilizadas
 
-* **HTML5**: Estrutura semântica da página.
-* **CSS3**: Estilização avançada com Flexbox, Media Queries e funções modernas para tipografia responsiva.
+* **HTML**: Estrutura semântica da página.
+* **CSS**: Estilização avançada com Flexbox, Media Queries e funções modernas para tipografia responsiva.
 * **JavaScript**: Manipulação dinâmica do DOM para carregamento otimizado de vídeo.
 * **Google Fonts**: Utilização das fontes *Poppins* e *Inter* para uma interface limpa.
 * **Flow IA**: Utilização de IA para vídeo animado do monstrinho.
