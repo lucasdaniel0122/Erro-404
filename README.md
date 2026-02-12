@@ -1,5 +1,4 @@
 ---
-
 # 👾 Erro 404 - Monstrinho Azul
 
 Uma página de erro 404 moderna, interativa e totalmente responsiva, apresentando um personagem animado em um ambiente clean. O projeto utiliza técnicas avançadas de CSS para garantir que o conteúdo se adapte perfeitamente a qualquer tamanho de tela.
@@ -25,7 +24,7 @@ O design foi focado em uma estética "Clean e Soft", utilizando uma paleta de co
 
 ## 📁 Estrutura do Projeto
 
-```text
+```
 ├── assets/
 │   ├── monstrinho-fofo.webp             # Fallback da imagem
 │   ├── video-monstrinho-otimizado.mp4   # Vídeo animado
@@ -43,7 +42,6 @@ O design foi focado em uma estética "Clean e Soft", utilizando uma paleta de co
 git clone https://github.com/lucasdaniel0122/Erro-404.git
 
 ```
-
 
 2. Navegue até a pasta do projeto.
 3. Abra o arquivo `index.html` em seu navegador de preferência.
