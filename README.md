@@ -49,5 +49,3 @@ git clone https://github.com/lucasdaniel0122/Erro-404.git
 
 **Desenvolvido com foco em UX e Design Responsivo.**
 ---
-
-Deseja que eu adicione uma seção de "Licença" ou algum link direto para o deploy no Vercel?
