@@ -100,11 +100,6 @@ body, button {
 
 @media (max-width: 480px) {
     
-    main {
-        position: absolute;
-        overflow: hidden;
-    }
-    
     .conteudo {
         justify-content: end;
         padding-bottom: 32px;
