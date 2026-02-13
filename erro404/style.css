@@ -101,7 +101,7 @@ body, button {
 @media (max-width: 480px) {
     
     main {
-        position: relative;
+        position: absolute;
         overflow: hidden;
     }
     
