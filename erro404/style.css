@@ -99,6 +99,11 @@ body, button {
 /* CELULARES PEQUENOS */
 
 @media (max-width: 480px) {
+    
+    main {
+        overflow: hidden;
+    }
+    
     .conteudo {
         justify-content: end;
         padding-bottom: 32px;
