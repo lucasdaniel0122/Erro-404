@@ -100,19 +100,21 @@ body, button {
 
 @media (max-width: 480px) {
     .conteudo {
-        justify-content: flex-end;
-        padding-bottom: 60px;
+        justify-content: end;
+        padding-bottom: 32px;
         height: 100vh;
         z-index: 2;
 
         h1 {
-            font-size: 24px;
-            margin-bottom: 5px;
+            font-size: 27px;
+            font-weight: 500;
         }
 
         button {
             font-size: 16px;
-            padding: 14px 40px;
+            padding: 16px 20px;
+            justify-content: flex-end;
+            align-items: end;
         }
     }
 
@@ -121,3 +123,4 @@ body, button {
     }
 
 }
+
